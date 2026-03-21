@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "31e428cda0d4d93f",
+    "type": "split",
+    "children": [
+      {
+        "id": "13f39557aa5689ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0b4d73852c8e3d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C language/C++/类与对象.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "类与对象"
+            }
+          },
+          {
+            "id": "f625e486a7dbd9bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C language/C++/STL(容器，算法，迭代器）/迭代器/迭代器.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "迭代器"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4af31731c653c1f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0ec4b9738b3cda5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "229c588494f8a5da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3ad5b3208bd0c137",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "18f5574b95b7678c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "292a0d9ff1f34e0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "59fd5b93af5b5c1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ff5701a954f54b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python/笔记/列表.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "列表 的反向链接列表"
+            }
+          },
+          {
+            "id": "9f95c0de007693ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "算法/二叉树.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "二叉树 的出链列表"
+            }
+          },
+          {
+            "id": "6dfc931eb2708b3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3c2b42aedeb0c647",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "6f475f46d9cd0cf2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "算法/二叉树.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "二叉树 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "f0b4d73852c8e3d4",
+  "lastOpenFiles": [
+    "C language/C++/C++基础知识/@C++ - 01.md",
+    "C language/C++/C++基础知识/C转C++基础知识.md",
+    "C language/C++/STL(容器，算法，迭代器）/vector/方法.md",
+    "C language/C++/STL(容器，算法，迭代器）/vector/vector.md",
+    "C language/C++/分离式编译.md",
+    "C language/C++/类与对象.md",
+    "C language/C++/C++基础知识/enum的使用.md",
+    "C language/C++/STL(容器，算法，迭代器）/迭代器/迭代器.md",
+    "C language/C++/STL(容器，算法，迭代器）/迭代器/方法.md",
+    "电赛/摄像头.md",
+    "电赛/编程.md",
+    "电赛/未命名.md",
+    "不知道是啥的东西/软件支持.md",
+    "不知道是啥的东西/未命名.md",
+    "不知道是啥的东西/未命名 1.md",
+    "C language/C++/C++基础知识/@C++ - 02.md",
+    "C language/C++/STL(容器，算法，迭代器）/deque/方法.md",
+    "C language/C++/STL(容器，算法，迭代器）/deque/deque.md",
+    "C language/C++/STL(容器，算法，迭代器）/string/方法.md",
+    "C language/C++/STL(容器，算法，迭代器）/string/string.md",
+    "C language/C++/STL(容器，算法，迭代器）/算法/算法.md",
+    "C language/C++/STL(容器，算法，迭代器）/未命名",
+    "C language/C++/STL(容器，算法，迭代器）/算法",
+    "python/笔记/基础知识.md",
+    "python/笔记/数据结构/集合.md",
+    "图片支持/C++/depue.png",
+    "C language/C++/STL(容器，算法，迭代器）/deque",
+    "C language/C++/STL容器/常见STL容器的方法.md",
+    "图片支持/C++/迭代器方法.png",
+    "图片支持/C++/C转C++基础知识.png",
+    "C language/C++/STL(容器，算法，迭代器）/迭代器",
+    "C language/C++/STL容器/STL常用容器.md",
+    "C language/C++/STL(容器，算法，迭代器）/vector",
+    "C language/C++/STL(容器，算法，迭代器）/string",
+    "图片支持/C++",
+    "C language/C++/STL(容器，算法，迭代器）",
+    "python/笔记/文件.md",
+    "C language/C++/C++基础知识",
+    "不知道是啥的东西/589556af-cd31-4a22-a993-bca9f41a01c6.png",
+    "C language",
+    "Pasted image 20260210150448.png",
+    "Pasted image 20260131121633.png",
+    "图片支持/算法/记忆化搜索例题.png",
+    "图片支持/电赛/颜色识别阈值图示例（绿色.png",
+    "图片支持/电赛/颜色识别阈值图示例.png",
+    "图片支持/电赛/CanMV 排针图.png",
+    "未命名.canvas"
+  ]
+}
