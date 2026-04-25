@@ -17,6 +17,7 @@ if (today == MONDAY) {   // 代码一看就懂
     cout << "今天是周一" << endl;
 }
 ```
+其中`Weekday` 是一个类型，MONDAY是这个类型里面的变量
 
 ```C++
 // 1. 用户输入数字
@@ -101,3 +102,7 @@ int num = static_cast<int>(Weekday::MONDAY);  // 必须显式转换
 ```
 
 写class就是规定作用域，如果不写class的话enum重复的话会报错的
+
+#  匿名枚举
+这种方法可以拿来去定义一些常量
+`enum{SIZE = 100}` 这种就定义了SIZE为100，而且不占用内存

@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/笔记/类(面向对象).md",
+                "file": "神经网络与机器学习/模型构建/MLP/训练过程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "类(面向对象)"
-            }
-          },
-          {
-            "id": "2683a5b95e63c245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C language/C++/STL(容器，算法，迭代器）/算法/算法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "算法"
+              "title": "训练过程"
             }
           },
           {
@@ -41,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/库/Numpy 库.md",
+                "file": "C language/C++/C++基础知识/重载运算符.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Numpy 库"
+              "title": "重载运算符"
             }
           }
         ],
@@ -107,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 285.50152587890625
   },
   "right": {
     "id": "292a0d9ff1f34e0b",
@@ -212,44 +198,44 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "2683a5b95e63c245",
+  "active": "f625e486a7dbd9bf",
   "lastOpenFiles": [
-    "神经网络与机器学习/预测贴纸/未命名 2.md",
-    "python/笔记/类(面向对象).md",
-    "图片支持/电赛/颜色识别阈值图示例（绿色.png",
-    "C language/C++/STL(容器，算法，迭代器）/算法/算法.md",
-    "C language/C++/STL(容器，算法，迭代器）/vector/方法.md",
-    "C language/C++/STL(容器，算法，迭代器）/vector/vector.md",
-    "C language/C++/C++基础知识/enum的使用.md",
     "C language/C++/类与对象.md",
-    "C language/C++/C++基础知识/@C++ - 01.md",
-    "1.md",
-    "神经网络与机器学习/知识点/MLP模型构建.md",
-    "神经网络与机器学习/知识点/训练模型.md",
-    "神经网络与机器学习/知识点/特征工程.md",
-    "神经网络与机器学习/知识点/11.md",
-    "神经网络与机器学习/知识点/主函数example.md",
-    "神经网络与机器学习/知识点/随机种子.md",
-    "python/库/pandas/Pandas 库.md",
+    "神经网络与机器学习/模型构建/MLP/对MLP的理解.md",
+    "神经网络与机器学习/模型构建/深度学习",
+    "神经网络与机器学习/模型构建/MLP/MLP模型构建.md",
+    "神经网络与机器学习/模型构建/MLP/训练模型.md",
+    "神经网络与机器学习/模型构建/MLP/训练过程.md",
+    "神经网络与机器学习/模型构建/MLP/特征工程.md",
+    "神经网络与机器学习/模型构建/MLP/主函数example.md",
+    "神经网络与机器学习/模型构建/MLP/随机种子.md",
+    "神经网络与机器学习/模型构建/MLP/11.md",
+    "神经网络与机器学习/模型构建/深度学习/CNN",
+    "神经网络与机器学习/模型构建/MLP",
+    "python/库/Numpy 库.md",
+    "神经网络与机器学习/未命名.md",
+    "神经网络与机器学习/未命名",
     "神经网络与机器学习/机器学习概述.md",
-    "神经网络与机器学习/预测贴纸/未命名 3.md",
-    "神经网络与机器学习/预测贴纸/未命名.md",
-    "神经网络与机器学习/预测贴纸/def add_date_features.md",
-    "神经网络与机器学习/预测贴纸/未命名 1.md",
-    "未命名 2.md",
-    "不知道是啥的东西/Markdown文档用法.md",
+    "电赛/编程.md",
+    "不知道是啥的东西/原/未命名.md",
     "C language/C++/C++基础知识/重载运算符.md",
-    "神经网络与机器学习/知识点",
-    "C language/C++/C++基础知识/C转C++基础知识.md",
+    "C language/C++/C++基础知识/模板/类模板与模板类.md",
+    "C language/C++/C++基础知识/模板/函数模板与模板函数.md",
+    "C language/C++/C++基础知识/@C++ - 01.md",
+    "C language/C++/C++基础知识/模板",
+    "python/笔记/类(面向对象).md",
+    "C language/C++/C++基础知识/异常处理.md",
+    "C language/C++/C++基础知识/enum的使用.md",
+    "C language/C++/STL(容器，算法，迭代器）/stack",
+    "python/笔记/数据结构/列表.md",
+    "python/笔记/知识点.md",
+    "python/笔记/运算符.md",
+    "python/笔记/循环进阶.md",
+    "图片支持/电赛/颜色识别阈值图示例（绿色.png",
+    "神经网络与机器学习/模型构建",
     "神经网络与机器学习/预测贴纸",
     "python/库/pandas/train.csv",
     "python/库/pandas",
-    "python/库/pytorch/未命名",
-    "不知道是啥的东西/原",
-    "神经网络与机器学习/第二章",
-    "神经网络与机器学习",
-    "神经网络",
-    "python/库/pytorch",
     "不知道是啥的东西/Pasted image 20251230203455.png",
     "不知道是啥的东西/589556af-cd31-4a22-a993-bca9f41a01c6.png",
     "图片支持/python/pandas库.png",
