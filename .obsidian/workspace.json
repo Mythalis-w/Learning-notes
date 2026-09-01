@@ -4,39 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "13f39557aa5689ee",
+        "id": "c66f744c0496a895",
         "type": "tabs",
         "children": [
           {
-            "id": "f0b4d73852c8e3d4",
+            "id": "d500593a6305f79e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "神经网络与机器学习/模型构建/MLP/训练过程.md",
-                "mode": "source",
-                "source": false
+                "file": "图片支持/数据结构/后缀表达式求值5.png"
               },
-              "icon": "lucide-file",
-              "title": "训练过程"
+              "icon": "lucide-image",
+              "title": "后缀表达式求值5"
             }
           },
           {
-            "id": "f625e486a7dbd9bf",
+            "id": "f781beede0917dc2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "图片支持/数据结构/后缀表达式求值4.png"
+              },
+              "icon": "lucide-image",
+              "title": "后缀表达式求值4"
+            }
+          },
+          {
+            "id": "dd6a55b13e1029c1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "图片支持/数据结构/后缀表达式求值3.png"
+              },
+              "icon": "lucide-image",
+              "title": "后缀表达式求值3"
+            }
+          },
+          {
+            "id": "922896611597a9cb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "图片支持/数据结构/中缀表达式转换为后缀表达式4.png"
+              },
+              "icon": "lucide-image",
+              "title": "中缀表达式转换为后缀表达式4"
+            }
+          },
+          {
+            "id": "2e8dbabc40a3749d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "图片支持/数据结构/中缀表达式转换为后缀表达式3.png"
+              },
+              "icon": "lucide-image",
+              "title": "中缀表达式转换为后缀表达式3"
+            }
+          },
+          {
+            "id": "1754576de4565fe9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "图片支持/数据结构/比较级参考.png"
+              },
+              "icon": "lucide-image",
+              "title": "比较级参考"
+            }
+          },
+          {
+            "id": "d929bfd4ad50b31c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C language/C++/C++基础知识/重载运算符.md",
+                "file": "不知道是啥的东西/原/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "重载运算符"
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "7bb838cad0d247db",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "图片支持/数据结构/带权邻接表有向图.png"
+              },
+              "icon": "lucide-image",
+              "title": "带权邻接表有向图"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -93,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.50152587890625
+    "width": 258.50152587890625
   },
   "right": {
     "id": "292a0d9ff1f34e0b",
@@ -109,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "神经网络与机器学习/预测贴纸/未命名 1.md",
+                "file": "C language/C++/C++基础知识/重载运算符.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 1 的反向链接列表"
+              "title": "重载运算符 的反向链接列表"
             }
           },
           {
@@ -128,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/二叉树.md",
+                "file": "C language/C++/C++基础知识/重载运算符.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "二叉树 的出链列表"
+              "title": "重载运算符 的出链列表"
             }
           },
           {
@@ -180,7 +250,8 @@
               "title": "二叉树 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -198,53 +269,53 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "f625e486a7dbd9bf",
+  "active": "229c588494f8a5da",
   "lastOpenFiles": [
-    "C language/C++/类与对象.md",
-    "神经网络与机器学习/模型构建/MLP/对MLP的理解.md",
-    "神经网络与机器学习/模型构建/深度学习",
-    "神经网络与机器学习/模型构建/MLP/MLP模型构建.md",
-    "神经网络与机器学习/模型构建/MLP/训练模型.md",
-    "神经网络与机器学习/模型构建/MLP/训练过程.md",
-    "神经网络与机器学习/模型构建/MLP/特征工程.md",
-    "神经网络与机器学习/模型构建/MLP/主函数example.md",
-    "神经网络与机器学习/模型构建/MLP/随机种子.md",
-    "神经网络与机器学习/模型构建/MLP/11.md",
-    "神经网络与机器学习/模型构建/深度学习/CNN",
-    "神经网络与机器学习/模型构建/MLP",
-    "python/库/Numpy 库.md",
-    "神经网络与机器学习/未命名.md",
-    "神经网络与机器学习/未命名",
-    "神经网络与机器学习/机器学习概述.md",
-    "电赛/编程.md",
+    "图片支持/数据结构/中缀表达式转换为后缀表达式1.png",
+    "ei.md",
+    "图片支持/数据结构/中缀表达式转换为后缀表达式2.png",
+    "图片支持/数据结构/中缀表达式转换为后缀表达式3.png",
+    "图片支持/数据结构/中缀表达式转换为后缀表达式4.png",
+    "C language/数据结构(C)/图/深度优先和广度优先.md",
+    "C language/数据结构(C)/图/图基本概念与储存结构.md",
+    "C language/数据结构(C)/图/最小生成树.md",
+    "C language/数据结构(C)/树/树与二叉树.md",
+    "C language/数据结构(C)/栈和队列/栈与队列.md",
+    "C language/数据结构(C)/栈和队列/表达式求值.md",
+    "图片支持/数据结构/比较级参考.png",
+    "图片支持/数据结构/后缀表达式求值2.png",
+    "图片支持/数据结构/后缀表达式求值3.png",
+    "图片支持/数据结构/后缀表达式求值4.png",
+    "图片支持/数据结构/后缀表达式求值5.png",
     "不知道是啥的东西/原/未命名.md",
-    "C language/C++/C++基础知识/重载运算符.md",
-    "C language/C++/C++基础知识/模板/类模板与模板类.md",
-    "C language/C++/C++基础知识/模板/函数模板与模板函数.md",
-    "C language/C++/C++基础知识/@C++ - 01.md",
-    "C language/C++/C++基础知识/模板",
-    "python/笔记/类(面向对象).md",
-    "C language/C++/C++基础知识/异常处理.md",
-    "C language/C++/C++基础知识/enum的使用.md",
-    "C language/C++/STL(容器，算法，迭代器）/stack",
-    "python/笔记/数据结构/列表.md",
-    "python/笔记/知识点.md",
-    "python/笔记/运算符.md",
-    "python/笔记/循环进阶.md",
-    "图片支持/电赛/颜色识别阈值图示例（绿色.png",
-    "神经网络与机器学习/模型构建",
-    "神经网络与机器学习/预测贴纸",
-    "python/库/pandas/train.csv",
-    "python/库/pandas",
-    "不知道是啥的东西/Pasted image 20251230203455.png",
-    "不知道是啥的东西/589556af-cd31-4a22-a993-bca9f41a01c6.png",
-    "图片支持/python/pandas库.png",
-    "图片支持/C++/depue.png",
-    "图片支持/C++/迭代器方法.png",
-    "图片支持/C++/C转C++基础知识.png",
-    "Pasted image 20260210150448.png",
-    "Pasted image 20260131121633.png",
-    "图片支持/算法/记忆化搜索例题.png",
+    "图片支持/数据结构/说明.png",
+    "C language/数据结构(C)/!!层序遍历.md",
+    "C language/数据结构(C)/枚举.md",
+    "C language/数据结构(C)/线性表/顺序表和链表.md",
+    "C language/数据结构(C)/绪论/算法分析.md",
+    "C language/C/知识点/知识学习/内存分类.md",
+    "C language/C/知识点/知识学习/结构体.md",
+    "C language/C/知识点/知识学习/基础知识.md",
+    "C language/C/知识点/题目总结/打印图形的问题.md",
+    "C language/C/知识点/题目总结/进制的转化（转为十进制）.md",
+    "C language/C/知识点/知识学习/宏定义.md",
+    "C language/C/知识点/知识学习/局部变量和全局变量，函数的传入…….md",
+    "C language/C/知识点/知识学习/指针.md",
+    "C language/C/知识点/知识学习/字符数组.md",
+    "C language/数据结构(C)/树/哈夫曼树.md",
+    "C language/数据结构(C)/树/树和二叉树的转换.md",
+    "C language/数据结构(C)/图",
+    "C language/数据结构(C)/栈和队列",
+    "C language/数据结构(C)/绪论",
+    "C language/数据结构(C)/线性表",
+    "C language/数据结构(C)/树",
+    "数学建模/预测/一元线性回归分析.md",
+    "数学建模/预测/多元线性回归分析.md",
+    "数学建模/图片支持/预测/一元线性回归",
+    "数学建模/图片支持/预测",
+    "数学建模/图片支持/综合评价类/Topsis",
+    "数学建模/图片支持/综合评价类/熵权法",
+    "数学建模/优化",
     "未命名.canvas"
   ]
 }
