@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c66f744c0496a895",
+        "id": "9122b77ef63f79a0",
         "type": "tabs",
         "children": [
           {
-            "id": "d500593a6305f79e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "图片支持/数据结构/后缀表达式求值5.png"
-              },
-              "icon": "lucide-image",
-              "title": "后缀表达式求值5"
-            }
-          },
-          {
-            "id": "f781beede0917dc2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "图片支持/数据结构/后缀表达式求值4.png"
-              },
-              "icon": "lucide-image",
-              "title": "后缀表达式求值4"
-            }
-          },
-          {
-            "id": "dd6a55b13e1029c1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "图片支持/数据结构/后缀表达式求值3.png"
-              },
-              "icon": "lucide-image",
-              "title": "后缀表达式求值3"
-            }
-          },
-          {
-            "id": "922896611597a9cb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "图片支持/数据结构/中缀表达式转换为后缀表达式4.png"
-              },
-              "icon": "lucide-image",
-              "title": "中缀表达式转换为后缀表达式4"
-            }
-          },
-          {
-            "id": "2e8dbabc40a3749d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "图片支持/数据结构/中缀表达式转换为后缀表达式3.png"
-              },
-              "icon": "lucide-image",
-              "title": "中缀表达式转换为后缀表达式3"
-            }
-          },
-          {
-            "id": "1754576de4565fe9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "图片支持/数据结构/比较级参考.png"
-              },
-              "icon": "lucide-image",
-              "title": "比较级参考"
-            }
-          },
-          {
-            "id": "d929bfd4ad50b31c",
+            "id": "d9790b34b053ff69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "不知道是啥的东西/原/未命名.md",
+                "file": "C language/C/知识点/题目总结/进制的转化（转为十进制）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "7bb838cad0d247db",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "图片支持/数据结构/带权邻接表有向图.png"
-              },
-              "icon": "lucide-image",
-              "title": "带权邻接表有向图"
+              "title": "进制的转化（转为十进制）"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,46 +186,46 @@
   },
   "active": "229c588494f8a5da",
   "lastOpenFiles": [
+    "C language/C/知识点/题目总结/打印图形的问题.md",
+    "C language/C/知识点/题目总结/进制的转化（转为十进制）.md",
+    "C language/数据结构(C)/枚举.md",
+    "C language/数据结构(C)/!!层序遍历.md",
+    "图片支持/数据结构/后缀表达式求值5.png",
+    "C language/C++/C++基础知识/模板/类模板与模板类.md",
+    "图片支持/数据结构/带权邻接表有向图.png",
+    "Pasted image 20260730041556.png.md",
+    "Pasted image 20260730054939.png",
+    "Pasted image 20260815152813.png",
+    "电赛/优化/未命名.md",
+    "不知道是啥的东西/原/未命名.md",
+    "图片支持/数据结构/中缀表达式转换为后缀表达式3.png",
+    "C language/数据结构(C)/绪论/算法分析.md",
+    "C language/数据结构(C)/绪论/基础名词和概念.md",
+    "C language/数据结构(C)/线性表/顺序表和链表.md",
+    "C language/C/知识点/知识学习/结构体.md",
+    "C language/C/知识点/知识学习/指针.md",
+    "C language/C/知识点/知识学习/基础知识.md",
+    "C language/C/知识点/知识学习/宏定义.md",
+    "C language/C/知识点/知识学习/局部变量和全局变量，函数的传入…….md",
+    "C language/C/知识点/知识学习/内存分类.md",
+    "图片支持/算法/二叉树.png",
+    "图片支持/算法/插入排序.png",
+    "README.md",
+    "C language/数据结构(C)/栈和队列/表达式求值.md",
+    "图片支持/数据结构/比较级参考.png",
     "图片支持/数据结构/中缀表达式转换为后缀表达式1.png",
     "ei.md",
     "图片支持/数据结构/中缀表达式转换为后缀表达式2.png",
-    "图片支持/数据结构/中缀表达式转换为后缀表达式3.png",
-    "图片支持/数据结构/中缀表达式转换为后缀表达式4.png",
     "C language/数据结构(C)/图/深度优先和广度优先.md",
     "C language/数据结构(C)/图/图基本概念与储存结构.md",
     "C language/数据结构(C)/图/最小生成树.md",
     "C language/数据结构(C)/树/树与二叉树.md",
     "C language/数据结构(C)/栈和队列/栈与队列.md",
-    "C language/数据结构(C)/栈和队列/表达式求值.md",
-    "图片支持/数据结构/比较级参考.png",
-    "图片支持/数据结构/后缀表达式求值2.png",
-    "图片支持/数据结构/后缀表达式求值3.png",
-    "图片支持/数据结构/后缀表达式求值4.png",
-    "图片支持/数据结构/后缀表达式求值5.png",
-    "不知道是啥的东西/原/未命名.md",
-    "图片支持/数据结构/说明.png",
-    "C language/数据结构(C)/!!层序遍历.md",
-    "C language/数据结构(C)/枚举.md",
-    "C language/数据结构(C)/线性表/顺序表和链表.md",
-    "C language/数据结构(C)/绪论/算法分析.md",
-    "C language/C/知识点/知识学习/内存分类.md",
-    "C language/C/知识点/知识学习/结构体.md",
-    "C language/C/知识点/知识学习/基础知识.md",
-    "C language/C/知识点/题目总结/打印图形的问题.md",
-    "C language/C/知识点/题目总结/进制的转化（转为十进制）.md",
-    "C language/C/知识点/知识学习/宏定义.md",
-    "C language/C/知识点/知识学习/局部变量和全局变量，函数的传入…….md",
-    "C language/C/知识点/知识学习/指针.md",
-    "C language/C/知识点/知识学习/字符数组.md",
-    "C language/数据结构(C)/树/哈夫曼树.md",
-    "C language/数据结构(C)/树/树和二叉树的转换.md",
     "C language/数据结构(C)/图",
     "C language/数据结构(C)/栈和队列",
     "C language/数据结构(C)/绪论",
     "C language/数据结构(C)/线性表",
     "C language/数据结构(C)/树",
-    "数学建模/预测/一元线性回归分析.md",
-    "数学建模/预测/多元线性回归分析.md",
     "数学建模/图片支持/预测/一元线性回归",
     "数学建模/图片支持/预测",
     "数学建模/图片支持/综合评价类/Topsis",
