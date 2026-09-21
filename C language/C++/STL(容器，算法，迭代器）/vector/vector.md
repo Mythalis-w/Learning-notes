@@ -1,4 +1,4 @@
-- 向量，类似于数组，但可以动态增长。头文件 `<vector>`
+- 向量，类似于数组，但可以动态增长。头文件 `<vector>`（动态数组）
 - 是一个类模板，实例化产生一个类，如 `vector<int>` 产生一个数据元素是 `int` 的 `vector<int>` 类（向量）。
 - 同样，可以通过 `vector<int>` 类对象去访问其成员，如成员函数。
 - 同样可以用运算符进行一些运算。
@@ -24,3 +24,15 @@ int main(){
     }  
 }
 ```
+
+# 创建
+`vector<int> arr;`
+```C++
+vector<int> arr;
+vector<int> arr={};
+
+vector<int> arr(100)
+
+vector<vector<int>> arr;
+```
+都是有效的
